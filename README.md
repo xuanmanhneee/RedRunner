@@ -2,7 +2,7 @@
 ## Thông tin sinh viên
 - **Họ tên**: Phan Lê Xuân Mạnh
 - **MSSV**: 2312686
-- **Lớp**: [Điền lớp]
+- **Lớp**: CTK47PM
 ## Mô tả
 Bài thực hành Lab 01 môn **Game 2D Development with Unity**.
 Khám phá và phân tích dự án game RedRunner - một Platformer 2D mã nguồn mở
